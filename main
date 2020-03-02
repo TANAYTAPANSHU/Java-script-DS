@@ -1,0 +1,32 @@
+let arr = [" tanay ", " tapanshu " , " Mumbai " , " Prakash " , " Ankush "]
+arr.forEach(function(value,index){
+    arr[index]=value.trim()
+});
+console.log(arr)
+(5) ["tanay", "tapanshu", "Mumbai", "Prakash", "Ankush"]
+let sum=0
+
+let i=0
+
+let s=0
+
+let sum=0
+undefined
+let i=0
+undefined
+let s=0
+undefined
+while(sum!=100){
+    sum=sum+arr[i].length
+    s=s+arr[i]
+    i+=1;
+}
+s=s+<br>;
+sum=0;
+while(sum!=100){
+    sum=sum+arr[i].length
+    s=s+arr[i]
+    i+=1;
+}
+
+console.log(s);
